@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Tarefas/.vs
+/Tarefas/Application.Tests/bin/Debug/net6.0
+/Tarefas/Application.Tests/obj
+/Tarefas/tarefa.Infra/bin/Debug/net6.0
+/Tarefas/tarefa.Infra/obj
+/Tarefas/tarefas.API/obj
+/Tarefas/tarefas.Core.Application/bin/Debug/net6.0
+/Tarefas/tarefas.Core.Application/obj
+/tarefas.Core.Domain/obj
+/tarefas.Core.Domain/bin/Debug/net6.0
